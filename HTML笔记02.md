@@ -4,7 +4,6 @@
 - href、target、download、rel=noopener
 
 ## img标签
-### 1.3  图像标签img
 
 ```
 <img src="图片地址”  alt=“下载失败时的替换文本” title='提示文本'>
