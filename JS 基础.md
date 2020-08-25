@@ -3,7 +3,7 @@ JS 基础
 1. 只有函数和表达式有返回值
  ``` ture && false 返回值是 false
      false || true 返回值是 true
-
+ ```
 2. console.log(3) 的返回值：undefined
 
 3. return 后面不可以加回车
